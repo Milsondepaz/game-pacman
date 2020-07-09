@@ -11,7 +11,7 @@ A version of the classic PacMan game developed for academic purposes with my for
   
 ## Introduce
 
-FURB, Regional Foundation of Blumenau, is a University that is located in the south of Brazil, the Bachelor's degree in Computer Science, which I attended and had the opportunity to study the Matter of Computer Graphics with Professor Dalton Reis, he is an expert in Multimedia, Virtual Reality, Augmented Reality, etc. And he is very patient with the students; take a look at his web space.
+[__FURB__](https://furb.br), is a University that is located in the south of Brazil, the Bachelor's degree in Computer Science, which I attended and had the opportunity to study the Matter of Computer Graphics with Professor __Dalton Reis__, he is an expert in Multimedia, Virtual Reality, Augmented Reality, etc. And he is very patient with the students; take a look at his [web site](https://http://www.inf.furb.br/~dalton/dalton/Home.html).
 I attended Computer Graphics classes with my ex-colleagues Eduardo and Rafael, we formed a group and together we developed this version of the Pac-Man game
 The game is not much different from the original version, but it only has a single stage and a single map.
 
