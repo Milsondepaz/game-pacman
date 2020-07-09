@@ -1,3 +1,8 @@
+[![GitHub license](https://img.shields.io/github/license/Milsondepaz/game-pacman)](https://github.com/Milsondepaz/game-pacman/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Milsondepaz/game-pacman)](https://github.com/Milsondepaz/game-pacman/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Milsondepaz/game-pacman)](https://github.com/Milsondepaz/game-pacman/network)
+[![GitHub stars](https://img.shields.io/github/stars/Milsondepaz/game-pacman)](https://github.com/Milsondepaz/game-pacman/stargazers)
+
 # game-pacman
 
 A version of the classic PacMan game developed for academic purposes with my former graduates __Eduardo__ and __Rafael__.
