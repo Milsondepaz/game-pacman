@@ -6,7 +6,7 @@ A version of the classic PacMan game developed for academic purposes with my for
 
   - [Introduce](#introduce)
   - [Development Tools](#development-tools)
-  - [Run It](#built-with)
+  - [Run It](#run-it)
   - [Contributing](#contributing)
   
 ## Introduce
