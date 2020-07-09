@@ -17,7 +17,7 @@ I attended Computer Graphics classes with my ex-colleagues __Eduardo__ and __Raf
 
 The game is not much different from the original version, but it only has a single stage and a single map.
 
-[Pac-Man](https://github.com/Milsondepaz/game-pacman/blob/master/pacaman/pacman.jpg)
+![Pac-Man](https://github.com/Milsondepaz/game-pacman/blob/master/pacaman/pacman.jpg)
 
 ## Development Tools
 
