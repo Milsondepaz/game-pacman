@@ -33,6 +33,8 @@ The .jar files of the mentioned libraries are located at the root of the folder 
 
 You can download the project, open it in NetBeans or in your preferred IDE (make the necessary adjustments, if necessary) and run the game directly from the IDE, you can also generate the definitive .jar if you want.
 
+[![Pac-Man Java](http://img.youtube.com/vi/wrALXcuz63I/0.jpg)](http://www.youtube.com/watch?v=wrALXcuz63I "Pac-Man Java")
+
 ## Contributing
 
 I was looking at some projects from the time of the University, and I decided to put this one on Git Hub to improve it in my spare time, the developer community, feel free to clone the project and make your contributions under the MIT license.
