@@ -9,16 +9,29 @@ A version of the classic PacMan game developed for academic purposes with my for
   - [Run It](#built-with)
   - [Contributing](#contributing)
   
-##Introduce 
- FURB, Regional Foundation of Blumenau, is a University that is located in the south of Brazil, the Bachelor's degree in Computer Science, which I attended and had the opportunity to study the Matter of Computer Graphics with Professor Dalton Reis, he is an expert in Multimedia, Virtual Reality, Augmented Reality, etc. And he is very patient with the students; take a look at his web space.
+## Introduce
+
+FURB, Regional Foundation of Blumenau, is a University that is located in the south of Brazil, the Bachelor's degree in Computer Science, which I attended and had the opportunity to study the Matter of Computer Graphics with Professor Dalton Reis, he is an expert in Multimedia, Virtual Reality, Augmented Reality, etc. And he is very patient with the students; take a look at his web space.
 I attended Computer Graphics classes with my ex-colleagues Eduardo and Rafael, we formed a group and together we developed this version of the Pac-Man game
 The game is not much different from the original version, but it only has a single stage and a single map.
 
-##Development Tools
+## Development Tools
 
-##Run It
+To develop the game, we use:
+- IDE NetBeans.
+- Library  OpenGL (jogl - Java OpenGL)
+- Library  Gluegen-rt
 
-##Contributing
+The .jar files of the mentioned libraries are located at the root of the folder project but you can look at the respective MAVEM repositories or download directly from the source:
+
+
+## Run It
+
+You can download the project, open it in NetBeans or in your preferred IDE (make the necessary adjustments, if necessary) and run the game directly from the IDE, you can also generate the definitive .jar if you want.
+
+## Contributing
+
+I was looking at some projects from the time of the University, and I decided to put this one on Git Hub to improve it in my spare time, the developer community, feel free to clone the project and make your contributions under the MIT license.
 
 
  
