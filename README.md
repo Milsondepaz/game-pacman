@@ -8,10 +8,11 @@ A version of the classic PacMan game developed for academic purposes with my for
   - [Development Tools](#development-tools)
   - [Run It](#run-it)
   - [Contributing](#contributing)
+  - [Authors](#authors)
   
 ## Introduce
 
-[__FURB__](https://furb.br), is a University that is located in the south of Brazil, the Bachelor's degree in Computer Science, which I attended and had the opportunity to study the Matter of Computer Graphics with Professor __Dalton Reis__, he is an expert in Multimedia, Virtual Reality, Augmented Reality, etc. And he is very patient with the students; take a look at his [web site](http://www.inf.furb.br/~dalton/dalton/Home.html).
+[__FURB__](https://furb.br), is a University located in the south of Brazil, the Bachelor's degree in Computer Science, which I attended and had the opportunity to study the Computer Graphics class with Professor __Dalton Reis__, he is an expert in Multimedia, Virtual Reality, Augmented Reality, etc. And he is very patient with the students; take a look at his [web site](http://www.inf.furb.br/~dalton/dalton/Home.html).
 
 I attended Computer Graphics classes with my ex-colleagues __Eduardo__ and __Rafael__, we formed a group and together we developed this version of the Pac-Man game.
 
@@ -28,6 +29,28 @@ To develop the game, we use:
 
 The .jar files of the mentioned libraries are located at the root of the folder project but you can look at the respective MAVEM repositories or download directly from the source:
 
+[__OpenGL (jogl - Java OpenGL)__](http://www.java2s.com/Code/Jar/o/Downloadopengljar.htm)
+
+MAVEM repository 
+
+    <!-- https://mvnrepository.com/artifact/org.jogamp.jogl/jogl-all-main -->
+    <dependency>
+        <groupId>org.jogamp.jogl</groupId>
+        <artifactId>jogl-all-main</artifactId>
+        <version>2.3.2</version>
+    </dependency>
+
+
+[__Gluegen-rt__](http://www.java2s.com/Code/Jar/g/Downloadgluegenrtjar.htm)
+
+MAVEM repository 
+
+    <!-- https://mvnrepository.com/artifact/org.jogamp.gluegen/gluegen-rt-main -->
+    <dependency>
+        <groupId>org.jogamp.gluegen</groupId>
+        <artifactId>gluegen-rt-main</artifactId>
+        <version>2.3.2</version>
+    </dependency>
 
 ## Run It
 
@@ -40,6 +63,12 @@ Watch on Youtube
 ## Contributing
 
 I was looking at some projects from the time of the University, and I decided to put this one on Git Hub to improve it in my spare time, the developer community, feel free to clone the project and make your contributions under the MIT license.
+
+## Authors
+
+- Eduardo Ferreira Gehrke
+- Milson António
+- Rafael Rossi
 
 
  
